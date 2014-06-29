@@ -2,3 +2,5 @@
 ====================
 
 Second test in the framework of Coursera Scientist Toolbox course
+
+This is an add-up for a commit test.
