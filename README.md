@@ -1,6 +1,6 @@
-20140628_Second_Test
-Second test in the framework of Coursera Scientist Toolbox course
-Created 20140628 - Change 0003
+* 20140628_Second_Test
+* Second test in the framework of Coursera Scientist Toolbox course
+* Created 20140628 - Change 0003
 
 # Test for markup structure
 
