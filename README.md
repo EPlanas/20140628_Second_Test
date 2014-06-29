@@ -37,6 +37,33 @@ This is a bunch of code :
 
 * trying four spaces
 
-    if (r<9) then t=t-8
+    if (r<9) then t=t-8 #4 spaces
+     if (r<9) then t=t-8 #5 spaces
+       if (r<9) then t=t-8 #6 spaces
+
+### citation
+
+> pigs are more equals than others
+
+### Links
+
+[GIT] (www.github.com)
+http://www.google.fr
+
+### Task lists
+
+- [x] done
+- [ ] to be done
+
+- [ ] project 1
+  - [ ] task 1
+  - [ ] task 2
+- [x] project 2
+  - [x] task 1
+  - [ ] task 2
+
+
+
+
 
 
