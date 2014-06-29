@@ -37,6 +37,8 @@ This is a bunch of code :
 
 ```java
   if (r<9) then t=t-8
+  else t=t+7;
+  system.out.println("t="+t);
 ```
 
 * trying four spaces
