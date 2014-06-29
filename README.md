@@ -1,6 +1,7 @@
-20140628_Second_Test
-====================
+% 20140628_Second_Test
+% Second test in the framework of Coursera Scientist Toolbox course
+% Created 20140628
 
-Second test in the framework of Coursera Scientist Toolbox course
+# Test for markup structure
 
 This is an add-up for a commit test.
